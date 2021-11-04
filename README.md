@@ -18,10 +18,15 @@ scikit-learn, and tensorflow Python libraries.
 Use the following commands to install each of these libraries in their respective order:
 
 npm install tiktok-scraper
+
 pip install naked
+
 pip install pandas
+
 pip install numpy
+
 pip install scikit-learn
+
 pip install tensorflow
 
 
