@@ -1,6 +1,6 @@
 # tiktok_bot
 
-Welcome to ttok_bot!
+Welcome to tiktok_bot!
 
 This is a project where I scrape data from Tik Tok and use it to train a machine learning model to predict
 how much engagement a particular Tik Tok video will get based off of the following metrics: text,
